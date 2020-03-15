@@ -19,18 +19,15 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_description: A Material Design theme for MkDocs
-site_author: Martin Donath
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_name: Learn Professionally
+site_description: Learn Easily with Professionally
+site_author: Inder Singh
+site_url: https://learnprofessionally.com
 
-# Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
-edit_uri: ""
+
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2020 Martin Donath'
+copyright: 'Copyright &copy; 2020 Inder Singh'
 
 # Configuration
 theme:
@@ -50,8 +47,8 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: indigo
-    accent: indigo
+    primary: blue
+    accent: blue
   font:
     text: Roboto
     code: Roboto Mono
