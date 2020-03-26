@@ -1,47 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://indersinghvv.github.io/learnprofessionally/</loc>
-     <lastmod>2020-03-15</lastmod>
+     <lastmod>2020-03-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://indersinghvv.github.io/learnprofessionally/php/</loc>
-     <lastmod>2020-03-15</lastmod>
+     <loc>https://indersinghvv.github.io/learnprofessionally/php/getting-started-with-php/</loc>
+     <lastmod>2020-03-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://indersinghvv.github.io/learnprofessionally/php/</loc>
-     <lastmod>2020-03-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://indersinghvv.github.io/learnprofessionally/php/oops/</loc>
-     <lastmod>2020-03-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://indersinghvv.github.io/learnprofessionally/php/oops/</loc>
-     <lastmod>2020-03-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://indersinghvv.github.io/learnprofessionally/php/oops/</loc>
-     <lastmod>2020-03-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://indersinghvv.github.io/learnprofessionally/php/oops/</loc>
-     <lastmod>2020-03-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://indersinghvv.github.io/learnprofessionally/java/oops/</loc>
-     <lastmod>2020-03-15</lastmod>
+     <loc>https://indersinghvv.github.io/learnprofessionally/java/</loc>
+     <lastmod>2020-03-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://indersinghvv.github.io/learnprofessionally/release-notes/</loc>
-     <lastmod>2020-03-15</lastmod>
+     <lastmod>2020-03-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://indersinghvv.github.io/learnprofessionally/contributing/</loc>
-     <lastmod>2020-03-15</lastmod>
+     <lastmod>2020-03-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://indersinghvv.github.io/learnprofessionally/contact/</loc>
-     <lastmod>2020-03-15</lastmod>
+     <lastmod>2020-03-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
